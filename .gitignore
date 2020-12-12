@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/
+src/result/01_VGG-like/
+src/result/02_stats/
+src/result/tflog/
